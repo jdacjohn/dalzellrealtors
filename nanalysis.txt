@@ -1,0 +1,16 @@
+To: homes@abilene.com
+From: [email]
+Subject: Neighborhood Analysis
+
+Name:       [required-name]
+Address:    [address]
+City:       [city]
+State:      [state]
+Zip Code:   [zipcode]
+Work #:     [worknumber]
+Home #:     [homenumber]
+Email Add.  [email]
+
+This is a request for information on neighborhood comparisons.
+
+Questions & Comments: [questions]
